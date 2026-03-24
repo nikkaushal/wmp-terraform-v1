@@ -23,7 +23,7 @@ variable "components" {
     analytics-service = ""
     portfolio-service = ""
     frontend = ""
-    postgresql = ""
+    postgres = ""
     auth-service = ""
 
   }
