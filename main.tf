@@ -24,7 +24,7 @@ variable "components" {
     # portfolio-service = ""
     frontend = ""
     # postgres = ""
-    # auth-service = ""
+    auth-service = ""
 
   }
 }
