@@ -22,7 +22,7 @@ variable "components" {
   default = {
     # analytics-service = ""
     # portfolio-service = ""
-    # frontend = ""
+    frontend = ""
     # postgres = ""
     auth-service = ""
 
